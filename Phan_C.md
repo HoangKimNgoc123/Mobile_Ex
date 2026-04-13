@@ -4,7 +4,7 @@
 - Tạo thư mục: ./myweb
 - Tạo file ./myweb/index.html
 
-  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 101939" src="https://github.com/user-attachments/assets/fcc07086-50a9-4f75-b3e9-8faa0b187f22" />
+  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 101939" src="https://github.com/user-attachments/assets/f258536f-4bbb-4dbb-93c8-39bb8df15232" />
 
 - Tạo file docker-compose.yml để nó sẽ có các dịch vụ sau:
 - Khai báo sử dụng nodered/node-red, cổng 1880, dữ liệu nằm tại thư mục ./nodered
@@ -24,7 +24,5 @@
 
 - Edit file ./nodered/settings.js để nodered bắt buộc đăng nhập
 - Chạy docker-compose lần đầu để Node-RED tự sinh file cấu hình trong thư mục ./nodered, sau đó mới tiến hành sửa settings.js và restart lại container
-
-  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 105132" src="https://github.com/user-attachments/assets/814a5744-a079-44f3-a902-1d0cee1f1db0" />
 
  
