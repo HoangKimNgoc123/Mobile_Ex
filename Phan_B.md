@@ -31,7 +31,7 @@
   + CTRL+x : thoát edit file
   + Xem ip của máy ubuntu: ip -4 addr
 
-    <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 100406" src="https://github.com/user-attachments/assets/6d584fd1-1064-4836-85fb-737569cb0ab0" />
+   <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 100406" src="https://github.com/user-attachments/assets/6d584fd1-1064-4836-85fb-737569cb0ab0" />
 
 - Cài đặt docker cho Ubuntu
   + Kiểm tra phiên bản docker vừa cài đặt, kiểm tra phiên bản của docker compose
@@ -39,4 +39,4 @@
   + Tìm hiểu tập lệnh của docker và docker compose
   +Đảm bảo tường lửa trên Ubuntu đã cho phép các cổng 80, 1880, 9630 (Lệnh: sudo ufw allow ...)
 
-<img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 095611" src="https://github.com/user-attachments/assets/2a092512-fb44-48d6-a115-cebf7ddd03c3" />
+  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 095611" src="https://github.com/user-attachments/assets/2a092512-fb44-48d6-a115-cebf7ddd03c3" />
