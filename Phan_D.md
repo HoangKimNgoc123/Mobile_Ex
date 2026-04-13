@@ -2,7 +2,7 @@
  + tạo thư mục ./myapi
  + tạo file ./myapi/app.py sử dụng Python + Flask để làm gì đó funny
 
-   <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 215722" src="https://github.com/user-attachments/assets/7fad136f-48ee-460e-8d56-592280f1843d" />
+ <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 215722" src="https://github.com/user-attachments/assets/c4545110-76f0-4cd3-b4bf-d098a0239e50" />
 
  + tạo file ./myapi/requirements.txt chứa các thư viện mà app.py sử dụng (theo như app.py ví dụ thì requirements.txt chỉ cần có nội dung: flask)
  + tạo file ./myapi/Dockerfile để khai báo sử dụng Python 3.9 slim
