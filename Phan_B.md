@@ -1,6 +1,6 @@
 ### Cài đặt Ubuntu + Docker
 1. Cài đặt hệ điều hành Ubuntu 24.04.4 LTS
-- Sử dụng một trong các công cụ để giả lập: HyperV (có sẵn của windows), VirutualBox (Miễn phí), VM_Ware (bản quyền)  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-11 220101" src="https://github.com/user-attachments/assets/206ef621-c38e-4d92-9203-0022485abb99" />
+- Sử dụng một trong các công cụ để giả lập: HyperV (có sẵn của windows), VirutualBox (Miễn phí), VM_Ware (bản quyền)
 - Download file iso để cài đặt.
 - Cấu hình mạng trong Ubuntu (và công cụ giả lập) để cho phép truy cập SSH vào Ubuntu từ cmd của windows
 
