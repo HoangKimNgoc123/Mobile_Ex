@@ -4,7 +4,7 @@
 - Tạo thư mục: ./myweb
 - Tạo file ./myweb/index.html
 
-   <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 101939" src="https://github.com/user-attachments/assets/fcc07086-50a9-4f75-b3e9-8faa0b187f22" />
+  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 101939" src="https://github.com/user-attachments/assets/fcc07086-50a9-4f75-b3e9-8faa0b187f22" />
 
 - Tạo file docker-compose.yml để nó sẽ có các dịch vụ sau:
 - Khai báo sử dụng nodered/node-red, cổng 1880, dữ liệu nằm tại thư mục ./nodered
