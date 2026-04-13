@@ -10,4 +10,5 @@
 3. - Thêm domain đã đăng ký vào trong cloudflare : Nhận 2 dòng namespace
    - Nhập 2 dòng namespace của cloudflare vào trong trang quản lý DNS record của tên miền đăng ký (vd trên mắt bão)
 
-   <img width="1919" height="1462" alt="Không có tiêu đề" src="https://github.com/user-attachments/assets/838571a5-bce3-4e4e-af12-fc2883a3caff" />
+   <img width="1919" height="1462" alt="Không có tiêu đề" src="https://github.com/user-attachments/assets/ddd5a61a-4285-4dc0-9051-b18bbd87ec7d" />
+
